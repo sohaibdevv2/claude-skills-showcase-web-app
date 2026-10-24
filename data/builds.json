@@ -1,0 +1,18 @@
+{
+  "builds": [
+    {
+      "id": "001",
+      "projectName": "Postcard Generator",
+      "builderName": "Marcus Wong",
+      "school": "UC Berkeley",
+      "githubUrl": "https://github.com/manhinwong/postcards-demo/",
+      "videoUrl": "https://www.loom.com/share/806fb18140194bb2997cd51289c8c422",
+      "description": "A web app for creating personalized digital postcards with photos, messages, and memories. Customization coming soon!",
+      "tags": [
+        "creative"
+      ],
+      "submittedAt": "2026-01-16",
+      "featured": true
+    }
+  ]
+}
